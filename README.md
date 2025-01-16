@@ -1,4 +1,4 @@
-Hi there 🤚
+# Hi there 🤚
 
 I am a technology enthusiast and an eternal curious. I'm totally passionate about my family, love music and problem solving!
 
