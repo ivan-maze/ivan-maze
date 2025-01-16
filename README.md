@@ -1,6 +1,8 @@
 # Hi there 🤚
 
-I am a technology enthusiast and a curious learner. I'm deeply passionate about my family, love music, and enjoy solving complex problems.
+I am a technology enthusiast and a curious learner.
+
+I'm deeply passionate about my family, love music, and enjoy solving complex problems.
 
 My career has taken me through various areas of technology, and I found my tipping point when I started coding.
 
