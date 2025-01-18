@@ -10,6 +10,6 @@ I am studying to become a full-stack. I love back-end, low-level programming, al
 
 #### These are some programming languages and technolgies I most study...
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,clojure,py,js,react,nextjs,nodejs,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,js,react,nodejs,nextjs,vite,vercel)](https://skillicons.dev)
 
 
