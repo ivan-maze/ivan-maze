@@ -12,4 +12,4 @@ I am studying to become a full-stack. I love back-end, low-level programming, al
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,js,react,nodejs,nextjs,vite,vercel)](https://skillicons.dev)
 
-profile-summary-card-output/transparent/0-profile-details.svg
+(profile-summary-card-output/transparent/0-profile-details.svg)
