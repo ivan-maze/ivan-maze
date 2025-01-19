@@ -8,10 +8,10 @@ My career has taken me through various areas of technology, and I found my tippi
 
 I am studying to become a full-stack. My main focus are back-end, low-level programming, algorithms optimization and machine learning.
 
-#### These are some programming languages and technolgies I most use and study...
+These are some programming languages and technolgies I most use and study...
 #
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,js,react,nodejs,nextjs,vite,vercel)](https://skillicons.dev)
-<br></br>
+#
 <details>
   <summary>📊 My Summary Cards</summary>
   
