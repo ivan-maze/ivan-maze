@@ -14,6 +14,12 @@ I am studying to become a full-stack. I love back-end, low-level programming, al
 
 <details>
   <summary>📊 Meu Summary Card</summary>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-maze&theme=vision_friendly_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan-maze&theme=vision_friendly_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivan-maze&theme=vision_friendly_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan-maze&theme=vision_friendly_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivan-maze&theme=vision_friendly_dark&utcOffset=8)
   
   [![](https://raw.githubusercontent.com/ivan-maze/ivan-maze/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![](https://raw.githubusercontent.com/ivan-maze/ivan-maze/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
