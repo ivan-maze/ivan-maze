@@ -13,7 +13,7 @@ I am studying to become a full-stack. I love back-end, low-level programming, al
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,js,react,nodejs,nextjs,vite,vercel)](https://skillicons.dev)
 
 <details>
-  <summary>📊 Meu Summary Card</summary>
+  <summary>📊 My Summary Cards</summary>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-maze&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan-maze&theme=transparent)
