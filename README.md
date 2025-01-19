@@ -10,7 +10,7 @@ I am studying to become a full-stack. My main focus are back-end, low-level prog
 
 These are some programming languages and technolgies I most use and study...
 
-# [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,tensorflow,kafka,js,react,nodejs,nextjs,vite,vercel)](https://skillicons.dev)
+# [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,js,react,nodejs,nextjs,vite,vercel)](https://skillicons.dev)
 <details>
   <summary>📊 My Summary Cards</summary>
   
