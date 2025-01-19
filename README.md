@@ -6,7 +6,7 @@ I'm deeply passionate about my family, music, and solving complex problems.
 
 My career has taken me through various areas of technology, and I found my tipping point when I started coding.
 
-I am studying to become a full-stack. My main focus are back-end, low-level programming, algorithms optimization and machine learning.
+I am studing for full-stack. My main focus are back-end, low-level code, algorithms optimization and machine learning.
 
 These are some programming languages and technolgies I most use and study...
 
