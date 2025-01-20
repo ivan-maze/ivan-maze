@@ -2,8 +2,6 @@
 
 I am a technology enthusiast and a curious learner.
 
-I'm deeply passionate about my family, music, and solving complex problems.
-
 My career has taken me through various areas of technology, and I found my tipping point when I started coding.
 
 I am studing for full-stack. My main focus are back-end, low-level code, algorithms optimization and machine learning.
