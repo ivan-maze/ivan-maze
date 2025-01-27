@@ -4,7 +4,7 @@ I am a technology enthusiast and a curious learner. I found my professional tipp
 
 Currently in a career transition from hardware technical support to becoming a software engineer.
 
-I am studying to become a full-stack developer. My main focuses are back-end development, low-level code, algorithm optimization, and machine learning.
+I am acquiring full-stack knoledge. My main focuses are back-end, algorithm optimization, machine learning, and software architecture / DevOps.
 
 These are some programming languages and technolgies I most use and study:
 
