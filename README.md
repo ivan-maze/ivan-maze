@@ -1,8 +1,8 @@
 # Hey there 🤚
 
-I`m in a career transition from hardware technical support to becoming a software engineer.
+I`m in a career transition from hardware technical support to becoming a Software Engineer.
 
-I am acquiring full-stack knoledge. My main focuses are back-end, algorithm optimization, machine learning, and software architecture / DevOps.
+My main focuses are back-end, algorithm optimization, machine learning, and software architecture / DevOps.
 
 These are some programming languages and technolgies I most use and study:
 
