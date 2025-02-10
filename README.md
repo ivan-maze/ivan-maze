@@ -1,8 +1,6 @@
 # Hey there 🤚
 
-I am a technology enthusiast and a curious learner. I found my professional tipping point when I started coding.
-
-Currently in a career transition from hardware technical support to becoming a software engineer.
+I`m in a career transition from hardware technical support to becoming a software engineer.
 
 I am acquiring full-stack knoledge. My main focuses are back-end, algorithm optimization, machine learning, and software architecture / DevOps.
 
