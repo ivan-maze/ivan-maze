@@ -1,6 +1,6 @@
 # Hey there 🤚
 
-I`m in a career transition from hardware technical support to becoming a Software Engineer.
+Driven by understanding how things work and how to improve them.
 
 My main focuses are back-end, algorithm optimization, machine learning, and software architecture / DevOps.
 
