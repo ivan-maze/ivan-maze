@@ -6,7 +6,7 @@ My main focuses are back-end, algorithm optimization, machine learning, and soft
 
 These are some programming languages and technolgies I most use and study:
 
-# [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,clojure,py,js,react,nodejs)](https://skillicons.dev)
+# [![My Skills](https://skillicons.dev/icons?i=js,java,cpp,rust,clojure,py)](https://skillicons.dev)
 <details>
   <summary>📊 My Summary Cards</summary>
   
