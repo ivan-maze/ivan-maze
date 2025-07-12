@@ -6,7 +6,7 @@ My main focuses are algorithm optimization, machine learning, and software archi
 
 I`m also passionate about reading, producing music and enjoying the time with my wife and my son.
 
->> some programming languages and technolgies I most use and study:
+> some programming languages and technolgies I most use and study:
 
 # [![My Skills](https://skillicons.dev/icons?i=js,rust,cpp,java,py)](https://skillicons.dev)
 <details>
