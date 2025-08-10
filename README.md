@@ -1,14 +1,11 @@
-# Hey there 🤚, My name is Ivan...
+# Hey there 🤚
+# My name is Ivan...
 
-I am sutdying to become a full stack Software Engineering... I am driven by understanding how things work, where they can be improved and creating new things.
+I am studying to become a full-stack software engineer. I am driven by understanding how things work, identifying areas for improvement, and creating new things. I have experience in a variety of roles: working in sales on IoT projects at Endress+Hauser, focusing on cloud infrastructure and databases at Oracle, and I am currently part of Apple's hardware support team.
 
-I already worked in sales department with IoT projects at Endress+Hauser,  Cloud Infrastructure and Database at Oracle and now I'm part of Apple's support hardware team.
+My areas of focus are back-end development, software architecture, microservices, and DevSecOps. I am also an enthusiast for Machine Learning and AI.
 
-My  focuses are back-end aligned to algorithm optimization, software architecture / DevOps,.
-
-I`m also passionate about reading, learning, solving problmes, producing music.
-
-My day just cand enjoying the time with my wife and my son.
+I'm passionate about reading, learning, solving problems, philosophy, and producing music. What I love most in the world is my wife and my son.
 
 Some programming languages and technolgies I most use and study:
 
