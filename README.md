@@ -1,10 +1,14 @@
-# Hey there 🤚
+# Hey there 🤚, My name is Ivan...
 
-Driven by understanding how things work and where they can be improved.
+I am sutdying to become a Software Engineering... I am driven by understanding how things work, where they can be improved and creating new things.
 
-My main focuses are algorithm optimization, machine learning, and software architecture / DevOps.
+I already worked in sales department with **IoT** projects at **Endress+Hauser**,  Cloud infrastructure and database at Oracle and now I'm part of Apple's support hardware team.
 
-I`m also passionate about reading, producing music and enjoying the time with my wife and my son.
+My main focuses are back-end... with a special focus to algorithm optimization,and software architecture / DevOps.
+
+I`m also passionate about reading, learning, solving problmes, producing music.
+
+My day just cand enjoying the time with my wife and my son.
 
 > some programming languages and technolgies I most use and study:
 
