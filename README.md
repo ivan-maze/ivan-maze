@@ -1,5 +1,4 @@
 # Hey there 🤚
-# My name is Ivan...
 
 I am studying to become a full-stack software engineer. I am driven by understanding how things work, identifying areas for improvement, and creating new things. I have experience in a variety of roles: working in sales on IoT projects at Endress+Hauser, focusing on cloud infrastructure and databases at Oracle, and I am currently part of Apple's hardware support team.
 
