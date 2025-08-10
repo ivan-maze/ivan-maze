@@ -9,17 +9,12 @@ I`m also passionate about reading, producing music and enjoying the time with my
 > some programming languages and technolgies I most use and study:
 
 # [![My Skills](https://skillicons.dev/icons?i=js,rust,cpp,java,py)](https://skillicons.dev)
-<details>
-  <summary>📊 My Summary Cards</summary>
+
+<summary>📊 My Summary Cards</summary>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivan-maze&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivan-maze&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ivan-maze&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivan-maze&theme=transparent)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ivan-maze&theme=transparent&utcOffset=8)
-
-
-</details>
-
-
 
