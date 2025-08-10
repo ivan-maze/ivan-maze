@@ -1,10 +1,10 @@
 # Hey there 🤚, My name is Ivan...
 
-I am sutdying to become a Software Engineering... I am driven by understanding how things work, where they can be improved and creating new things.
+I am sutdying to become a full stack Software Engineering... I am driven by understanding how things work, where they can be improved and creating new things.
 
 I already worked in sales department with IoT projects at Endress+Hauser,  Cloud Infrastructure and Database at Oracle and now I'm part of Apple's support hardware team.
 
-My main focuses are back-end... with a special focus to algorithm optimization,and software architecture / DevOps.
+My  focuses are back-end aligned to algorithm optimization, software architecture / DevOps,.
 
 I`m also passionate about reading, learning, solving problmes, producing music.
 
