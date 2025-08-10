@@ -2,7 +2,7 @@
 
 I am sutdying to become a Software Engineering... I am driven by understanding how things work, where they can be improved and creating new things.
 
-I already worked in sales department with **IoT** projects at **Endress+Hauser**,  Cloud infrastructure and database at Oracle and now I'm part of Apple's support hardware team.
+I already worked in sales department with IoT projects at Endress+Hauser,  Cloud Infrastructure and Database at Oracle and now I'm part of Apple's support hardware team.
 
 My main focuses are back-end... with a special focus to algorithm optimization,and software architecture / DevOps.
 
@@ -10,7 +10,7 @@ I`m also passionate about reading, learning, solving problmes, producing music.
 
 My day just cand enjoying the time with my wife and my son.
 
-> some programming languages and technolgies I most use and study:
+Some programming languages and technolgies I most use and study:
 
 # [![My Skills](https://skillicons.dev/icons?i=js,rust,cpp,java,py)](https://skillicons.dev)
 
