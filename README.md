@@ -8,7 +8,7 @@ I'm passionate about reading, learning, solving problems, philosophy, and produc
 
 Some programming languages and technolgies I most use and study:
 
-# [![My Skills](https://skillicons.dev/icons?i=js,rust,cpp,java,py,nodejs,react,docker,kubernetes)](https://skillicons.dev)
+# [![My Skills](https://skillicons.dev/icons?i=js,cpp,java,py,nodejs,react,docker,kubernetes)](https://skillicons.dev)
 
 <summary>📊 My Summary Cards</summary>
   
