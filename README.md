@@ -1,14 +1,15 @@
-# Hey there 🤚
+# Hello 🤚
 
-I am studying to become a full-stack software engineer. I am driven by understanding how things work, identifying areas for improvement, and creating new things. I have experience in a variety of roles: working in sales on IoT projects at Endress+Hauser, focusing on cloud infrastructure and databases at Oracle, and I am currently part of Apple's hardware support team.
+I am a Software Engineer in training, passionate about understanding business needs and transforming them into robust technical realities.
 
-My areas of focus are back-end development, software architecture, microservices, and DevSecOps. I am also an enthusiast for Machine Learning and AI.
+With a background that includes IoT at Endress+Hauser, Cloud/DB at Oracle, and hardware support at Apple, I have learned to see technology from multiple angles.
 
-I'm passionate about reading, learning, solving problems, philosophy, and producing music. What I love most in the world is my wife and my son.
+Today, my focus is strictly on building the foundation: back-end development, software architecture, high-performance systems, and DevSecOps.
 
-Some programming languages and technolgies I most use and study:
+I love the entire process of creating new things, from designing the initial architecture to deploying scalable microservices.
 
-# [![My Skills](https://skillicons.dev/icons?i=js,java,py,nodejs,react,docker)](https://skillicons.dev)
+Life outside of tech is dedicated to my wife and family. I am naturally curious—I love solving puzzles, studying philosophy, reading deeply, and producing music in my spare time.
+
 
 <summary>📊 My Summary Cards</summary>
   
