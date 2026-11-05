@@ -1,8 +1,8 @@
 # Hello there 🤚
 
-I am a Software Engineer focused on back-end development, software architecture, distributed systems, and DevSecOps.
+I am a Software Engineer focused on back-end development, software architecture, cloud, and AI engineering.
 
-My background spans IoT at Endress+Hauser, Cloud & Databases at Oracle, and technical expertise at Apple, bringing a business-driven perspective to engineering.
+My background spans IoT at Endress+Hauser, Cloud & Databases at Oracle, and hardware support at Apple, bringing a business-driven perspective to engineering.
 
 Passionate about building scalable systems, solving complex problems, and turning ideas into reliable software.
 
