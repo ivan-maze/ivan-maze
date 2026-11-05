@@ -1,14 +1,12 @@
-# Hello 🤚
+# Hello there 🤚
 
-I am a Software Engineer in training, passionate about understanding business needs and transforming them into robust technical realities.
+I am a Software Engineer focused on back-end development, software architecture, distributed systems, and DevSecOps.
 
-With a background that includes IoT at Endress+Hauser, Cloud/DB at Oracle, and hardware support at Apple, I have learned to see technology from multiple angles.
+My background spans IoT at Endress+Hauser, Cloud & Databases at Oracle, and technical expertise at Apple, bringing a business-driven perspective to engineering.
 
-Today, my focus is strictly on building the foundation: back-end development, software architecture, high-performance systems, and DevSecOps.
+Passionate about building scalable systems, solving complex problems, and turning ideas into reliable software.
 
-I love the entire process of creating new things, from designing the initial architecture to deploying scalable microservices.
-
-Life outside of tech is dedicated to my wife and family. I am naturally curious—I love solving puzzles, studying philosophy, reading deeply, and producing music in my spare time.
+Beyond tech: my wife and sons, jiu jitsu, music production, and lifelong learning.
 
 
 <summary>📊 My Summary Cards</summary>
